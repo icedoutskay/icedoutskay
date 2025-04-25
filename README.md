@@ -18,7 +18,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 - Backend architectures that are fast, reliable, and easy to maintain  
 - APIs with proper versioning, documentation, and security  
 - Automated workflows using Docker and GitHub Actions  
@@ -26,7 +26,7 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 💼 Tech Stack
+##  Tech Stack
 **Languages**: JavaScript, TypeScript  
 **Backend**: Node.js, Express.js  
 **Databases**: MongoDB, PostgreSQL, Redis  
@@ -35,13 +35,13 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Blockchain fundamentals and smart contract integration  
 - Advanced system design and performance optimization
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 - [LinkedIn](https://linkedin.com/in/icedoutskay)
 - [Twitter](https://twitter.com/icedoutskay)
