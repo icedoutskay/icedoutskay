@@ -1,35 +1,43 @@
-# Hi there, I'm Somkene 👋
+# Hey! I'm Odikpo Somkenechukwu
 
-Welcome to my GitHub profile! I'm a backend engineer passionate about building efficient, scalable, and secure web applications. I'm currently expanding my knowledge and experience through various projects and have recently completed my backend engineering certification from [AltSchool Africa](https://www.altschoolafrica.com/).
-
----
-
-### 🚀 About Me
-
-- 🌱 I’m constantly learning new backend technologies and best practices.
-- 💡 I’m particularly interested in REST APIs, microservices, and cloud-based solutions.
-- 🌍 I'm based in Lagos.
-- 📚 Certified Backend Engineer, **AltSchool Africa**.
-
-### 💼 Skills & Tools
-
-- **Languages**: JavaScript, TypeScript, 
-- **Frameworks**: Node.js, Express, Fastify
-- **Databases**: MongoDB, PostgreSQL, Redis
-- **Others**: Docker, Git, Swagger/OpenAPI, WebSocket
+Nice to meet you!
 
 ---
 
-### 📂 Projects
+## 👨‍💻 About Me  
+I'm a **Backend Developer** with nearly 3 years of experience building fast, secure, and scalable systems using JavaScript technologies. I specialize in Node.js, Express.js, MongoDB, and PostgreSQL, and I enjoy building APIs and services that power modern web applications.
 
-Here are some of my projects that highlight my backend development skills:
+I’m also experienced with **Docker** and setting up **CI/CD pipelines** to make deployments smooth and efficient. My development style focuses on writing clean, maintainable code and building systems that are easy to scale and debug.
 
-#### [URL Shortener](https://github.com/icedoutskay/scissors)
-A backend service that shortens URLs and provides analytics on link clicks, built with Node.js and MongoDB.
+Recently, I've been **diving into Web3 development**, learning how blockchain can reshape the backend and how to build services that interact with smart contracts and decentralized systems.
 
-####  [Birthday Reminder](https://github.com/username/birthdayReminderService)
-A UI interface to find customer's birthdays and send them well wishes.
+When I’m not coding, you’ll probably find me:
+- Playing a round of **chess**
+- Watching a **movie**
+- Learning something new to level up my skills
 
+---
+
+## 🚀 What I'm Working On
+- Backend architectures that are fast, reliable, and easy to maintain  
+- APIs with proper versioning, documentation, and security  
+- Automated workflows using Docker and GitHub Actions  
+- Exploring the future of backend through decentralized tech
+
+---
+
+## 💼 Tech Stack
+**Languages**: JavaScript, TypeScript  
+**Backend**: Node.js, Express.js  
+**Databases**: MongoDB, PostgreSQL, Redis  
+**DevOps**: Docker, GitHub Actions, GitLab CI, Nginx  
+**Other**: REST APIs, GraphQL, WebSockets, Swagger/OpenAPI
+
+---
+
+## 🌱 Currently Learning
+- Blockchain fundamentals and smart contract integration  
+- Advanced system design and performance optimization
 
 ---
 
@@ -39,5 +47,5 @@ A UI interface to find customer's birthdays and send them well wishes.
 - [Twitter](https://twitter.com/icedoutskay)
 - [Email](mailto:somkeneodikpo@gmail.com)
 
-Feel free to reach out if you'd like to discuss potential projects, collaborate, or just connect!
+If you're looking for a backend developer who brings energy, skill, and a constant drive to improve—I'm your guy. Let’s build something impactful.
 
