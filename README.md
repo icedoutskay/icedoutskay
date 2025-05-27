@@ -5,7 +5,7 @@ Nice to meet you!
 ---
 
 ## 👨‍💻 About Me  
-I'm a **Backend Developer** with nearly 3 years of experience building fast, secure, and scalable systems using JavaScript technologies. I specialize in Node.js, Express.js, MongoDB, and PostgreSQL, and I enjoy building APIs and services that power modern web applications.
+I'm a **Backend Developer** with nearly 2 years of experience building fast, secure, and scalable systems using JavaScript technologies. I specialize in Node.js, Express.js, MongoDB, and PostgreSQL, and I enjoy building APIs and services that power modern web applications.
 
 I’m also experienced with **Docker** and setting up **CI/CD pipelines** to make deployments smooth and efficient. My development style focuses on writing clean, maintainable code and building systems that are easy to scale and debug.
 
