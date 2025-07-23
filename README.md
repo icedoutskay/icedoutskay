@@ -1,51 +1,39 @@
-# Hey! I'm Odikpo Somkenechukwu
+## 👋 Hi, I'm Somkenechukwu
 
-Nice to meet you!
+**Software Developer  | Open Source Contributor | Builder of Useful, Cool Stuff**
 
----
-
-## 👨‍💻 About Me  
-I'm a **Backend Developer** with nearly 2 years of experience building fast, secure, and scalable systems using JavaScript technologies. I specialize in Node.js, Express.js, MongoDB, and PostgreSQL, and I enjoy building APIs and services that power modern web applications.
-
-I’m also experienced with **Docker** and setting up **CI/CD pipelines** to make deployments smooth and efficient. My development style focuses on writing clean, maintainable code and building systems that are easy to scale and debug.
-
-Recently, I've been **diving into Web3 development**, learning how blockchain can reshape the backend and how to build services that interact with smart contracts and decentralized systems.
-
-When I’m not coding, you’ll probably find me:
-- Playing a round of **chess**
-- Watching a **movie**
-- Learning something new to level up my skills
+ [Somie](https://x.com/icedoutskay) • ✉️ [Email](mailto:somkeneodikpo@gmail.com)
 
 ---
 
-##  What I'm Working On
-- Backend architectures that are fast, reliable, and easy to maintain  
-- APIs with proper versioning, documentation, and security  
-- Automated workflows using Docker and GitHub Actions  
-- Exploring the future of backend through decentralized tech
+### 🚀 About Me
+
+I'm a curious and relentless problem solver with a strong love for clean code and internet-native communities.
+
+- Building with **TypeScript**, **Next.js**, and **Tailwind CSS**
+- Backend with **Node.js**, **Express**, **tRPC**, **Drizzle**, and **PostgreSQL**
+- Invested in **Web3**, especially **Solana** and **Starknet**
+- OSS Contibutor 
+
+I enjoy working on open problems and shipping fast
 
 ---
 
-##  Tech Stack
-**Languages**: JavaScript, TypeScript  
-**Backend**: Node.js, Express.js  
-**Databases**: MongoDB, PostgreSQL, Redis  
-**DevOps**: Docker, GitHub Actions, GitLab CI, Nginx  
-**Other**: REST APIs, GraphQL, WebSockets, Swagger/OpenAPI
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoutskay&show_icons=true&theme=transparent" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoutskay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-##  Currently Learning
-- Blockchain fundamentals and smart contract integration  
-- Advanced system design and performance optimization
+### 🎯 Right Now
+
+-  Deepening my Web3 integration skills across auth, wallets & onchain logic
+-  Open to collaborating on projects that are fun, impactful, or just weird enough
 
 ---
 
-###  Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/icedoutskay)
-- [Twitter](https://twitter.com/icedoutskay)
-- [Email](mailto:somkeneodikpo@gmail.com)
-
-If you're looking for a backend developer who brings energy, skill, and a constant drive to improve—I'm your guy. Let’s build something impactful.
+> I don’t just contribute. I leave footprints.  
 
