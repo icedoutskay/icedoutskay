@@ -22,7 +22,7 @@ I enjoy working on open problems and shipping fast
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoutskay&show_icons=true&theme=transparent" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoutskay&show_icons=true&theme=transparent&hide_rank=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoutskay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
